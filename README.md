@@ -1,2 +1,0 @@
-# testvue
-Created with CodeSandbox
